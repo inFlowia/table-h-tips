@@ -14,7 +14,8 @@ v 0.3
 		get_this_dir_url()
 		include_script()
 		include_style()
-	+ см. требования в table-h-tips-shared.js
+		+ см. требования в table-h-tips-shared.js
+		(Ищите их в репозитории https://github.com/inFlowia/deps .)
 
 Не будет работать в xinha как и любой js
 
